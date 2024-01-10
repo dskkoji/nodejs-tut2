@@ -5,3 +5,7 @@
 20240109:	10:34:27	b99c9e14-833a-43ea-878c-75f40521003c	SyntaxError: Unexpected token e in JSON at position 0
 20240110:	08:54:34	5b440adb-c5c7-4141-a85d-3bae419d50d5	SyntaxError: Unexpected token ' in JSON at position 18
 20240110:	08:54:39	bf4ffa8f-5785-4a07-a62d-15848359f81c	SyntaxError: Unexpected token ' in JSON at position 18
+20240110:	13:51:53	c2fe457a-55fd-422a-bd32-c504ae14a7d3	Error: Not allowed by CORS
+20240110:	13:52:17	95c373ad-ac36-4b39-b22c-7519cadb934b	Error: Not allowed by CORS
+20240110:	13:53:44	92728382-2105-4697-94fa-11bebac863ff	Error: Not allowed by CORS
+20240110:	14:57:39	5bd81ab9-8445-4d8e-acba-f0789528b78b	Error: Not allowed by CORS
