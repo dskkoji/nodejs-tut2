@@ -1,0 +1,7 @@
+20231230	13:42:37	920a5898-f47e-49a4-81c0-da7a58a04943	TypeError: fsPromises.readFil is not a function
+20231230	23:59:21	756dd2d8-81c8-4c8b-a230-7653905fd621	Error: Not allowed by CORS
+20240102	08:53:43	1d5d95d5-6ecc-4212-8afd-cc1cbf5bc332	ReferenceError: parstInt is not defined20240102	08:55:20	cf13e105-5bb7-46d6-bc0c-396ecfdcc1ab	TypeError: data.employees.setEmployees is not a function20240105:	12:52:48	6cddadc7-412d-44d3-8f4b-1f115ef73a1a	Error: Cannot set headers after they are sent to the client
+20240108:	19:33:47	afbb07d0-7ac8-46c5-8e99-24a3f558157d	ReferenceError: allowedOptions is not defined
+20240109:	10:34:27	b99c9e14-833a-43ea-878c-75f40521003c	SyntaxError: Unexpected token e in JSON at position 0
+20240110:	08:54:34	5b440adb-c5c7-4141-a85d-3bae419d50d5	SyntaxError: Unexpected token ' in JSON at position 18
+20240110:	08:54:39	bf4ffa8f-5785-4a07-a62d-15848359f81c	SyntaxError: Unexpected token ' in JSON at position 18
